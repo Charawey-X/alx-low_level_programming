@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main begins execution of file
+ * main - main begins execution of file
  */
 int main(void)
 {
@@ -9,6 +9,6 @@ int main(void)
 	/*writing string to stdout*/
 	puts(Mystr);
 
-	return 0;
+	return (0);
 
 }
