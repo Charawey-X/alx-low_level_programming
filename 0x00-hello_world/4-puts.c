@@ -6,4 +6,6 @@ int main(void)
 	/*writing string to stdout*/
 	puts(Mystr);
 
-	return (0);
+	return 0;
+
+}
