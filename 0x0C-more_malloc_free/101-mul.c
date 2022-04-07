@@ -1,3 +1,8 @@
+/**
+ *errors still present
+ *
+ **/
+
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
