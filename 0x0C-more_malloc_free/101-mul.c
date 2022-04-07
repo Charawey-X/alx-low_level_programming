@@ -3,7 +3,7 @@
  * Auth: C-x
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
 
